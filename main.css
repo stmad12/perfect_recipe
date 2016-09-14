@@ -1,0 +1,28 @@
+
+h1{
+            font-variant: small-caps;
+            font-size: 3em;
+            font-family: fantasy;
+            text-align: center;
+        }
+h2 {
+    text-align: center;
+    font-size: 1.5em;
+    font-variant: small-caps;
+}
+
+p {
+}
+.center{
+    text-align: center;
+}
+
+body {
+    background-color: lightpink;
+    padding-right: 75px;
+    padding-left: 75px;
+}
+
+li {
+    margin-bottom: 10px;
+}
